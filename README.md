@@ -1,5 +1,7 @@
 # ZMK Config
 
+## Different branches used for different keyboards
+
 ## Local Build Commands
 ```bash
 west build -d build/left -b nice_nano_v2 -- -DSHIELD=lily58_left
